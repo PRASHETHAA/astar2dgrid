@@ -189,7 +189,8 @@ path_states(s1)
 ## OUTPUT:
 ![exp4ai](https://user-images.githubusercontent.com/75234942/168954737-36191531-57be-4ef5-8099-1dd74f34f379.png)
 
-![2](https://user-images.githubusercontent.com/75234942/168965010-d05d5bf0-d824-4299-bcfb-b335a46301fa.png)
+
+![2](https://user-images.githubusercontent.com/75234942/168965182-fd879cbb-75f0-40bd-b37a-5e005da90a20.png)
 
 
 
